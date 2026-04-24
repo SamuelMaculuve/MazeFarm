@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'reports'              => 'Reports',
+    'sales_report'         => 'Sales Report',
+    'sales_report_desc'    => 'Sales analysis by period, payment method and product.',
+    'stock_report'         => 'Stock Report',
+    'stock_report_desc'    => 'Current stock, reorder alerts and expiry dates.',
+    'insurance_report'     => 'Insurance Report',
+    'insurance_report_desc'=> 'Claims, coverage and payments by insurer.',
+    'total_sales'          => 'Total Sales',
+    'num_transactions'     => 'No. of Transactions',
+    'avg_ticket'           => 'Average Ticket',
+    'insurance_total'      => 'Insurance Total',
+    'by_payment_method'    => 'By Payment Method',
+    'top_products'         => 'Top Products',
+    'qty_sold'             => 'Qty Sold',
+    'total_products'       => 'Total Products',
+    'stock_value'          => 'Stock Value',
+    'by_insurer'           => 'By Insurer',
+    'num_claims'           => 'No. of Claims',
+    'period'               => 'Period',
+    'generate'             => 'Generate Report',
+    'export_pdf'           => 'Export PDF',
+    'export_excel'         => 'Export Excel',
+];

@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'reports'              => 'Relatórios',
+    'sales_report'         => 'Relatório de Vendas',
+    'sales_report_desc'    => 'Análise de vendas por período, método de pagamento e produto.',
+    'stock_report'         => 'Relatório de Stock',
+    'stock_report_desc'    => 'Stock actual, alertas de reposição e validades.',
+    'insurance_report'     => 'Relatório de Seguros',
+    'insurance_report_desc'=> 'Sinistros, coberturas e pagamentos por seguradora.',
+    'total_sales'          => 'Total de Vendas',
+    'num_transactions'     => 'Nº de Transacções',
+    'avg_ticket'           => 'Ticket Médio',
+    'insurance_total'      => 'Total em Seguros',
+    'by_payment_method'    => 'Por Método de Pagamento',
+    'top_products'         => 'Produtos Mais Vendidos',
+    'qty_sold'             => 'Qtd Vendida',
+    'total_products'       => 'Total de Produtos',
+    'stock_value'          => 'Valor de Stock',
+    'by_insurer'           => 'Por Seguradora',
+    'num_claims'           => 'Nº de Sinistros',
+    'period'               => 'Período',
+    'generate'             => 'Gerar Relatório',
+    'export_pdf'           => 'Exportar PDF',
+    'export_excel'         => 'Exportar Excel',
+];
