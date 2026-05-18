@@ -46,7 +46,7 @@
 
                 {{-- Headline --}}
                 <div class="mb-8">
-                    <h1 class="text-3xl font-bold text-white leading-tight mb-3">
+                    <h1 class="text-3xl font-bold leading-tight mb-3">
                         {{ app()->getLocale() === 'pt' ? 'Gerencie a sua farmácia com eficiência' : 'Manage your pharmacy efficiently' }}
                     </h1>
                     <p class="text-white/50 text-sm leading-relaxed">
@@ -55,6 +55,7 @@
                             : 'Stock, sales, insurance and reports — all in one platform.' }}
                     </p>
                 </div>
+                
 
                 {{-- ── APP MOCKUP ── --}}
                 <div class="flex-1 flex items-end">
